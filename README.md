@@ -63,10 +63,11 @@ I enjoy meeting developers, exchanging ideas, and learning about the projects ot
 
 If you're working on something interesting or exploring a new technology, feel free to connect.
 
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vihaankshirsagar/">
-  <img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-9B7AE6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=211735" alt="Connect on LinkedIn" />
+  <strong>Connect on LinkedIn →</strong>
 </a>
 
 <br/><br/>
