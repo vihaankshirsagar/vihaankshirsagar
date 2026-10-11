@@ -1,86 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:39265C,100:8B5CF6&height=210&section=header&text=VIHAAN%20KSHIRSAGAR&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Curiosity%2C%20compiled.&descSize=18&descColor=C4B5FD&descAlignY=58" width="100%" alt="Vihaan Kshirsagar — Curiosity, compiled." />
+# VIHAAN KSHIRSAGAR
 
-<p>
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-A78BFA?style=flat-square&labelColor=0D0B14" alt="Always learning" />
-  <img src="https://img.shields.io/badge/MINDSET-BUILD_AND_EXPLORE-A78BFA?style=flat-square&labelColor=0D0B14" alt="Build and explore" />
-</p>
+### `Curiosity, compiled.`
 
-### Self-taught developer | Curious by nature | Builder by choice
+Self-taught developer exploring software, AI/ML, and the web.
 
-*Exploring ideas, building projects, and learning through experimentation.*
+[LinkedIn](https://www.linkedin.com/in/vihaankshirsagar/) · [Repositories](https://github.com/vihaankshirsagar?tab=repositories)
 
-[LinkedIn](https://www.linkedin.com/in/vihaankshirsagar/) · [GitHub Repositories](https://github.com/vihaankshirsagar?tab=repositories)
+<img src="https://img.shields.io/badge/BUILD-EXPLORE-8B5CF6?style=flat-square&labelColor=17131F" alt="Build and explore" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING-C4B5FD?style=flat-square&labelColor=17131F" alt="Always learning" />
 
 </div>
 
 ---
 
-```text
-> whoami
-Vihaan Kshirsagar
+### `01 / About`
 
-> current_mission
-Explore. Build. Learn. Share.
+Hi, I'm **Vihaan**, a self-taught developer who enjoys exploring technology, experimenting with ideas, and learning by building.
 
-> mindset
-Stay curious. Keep creating.
-```
+I'm interested in several areas of software development and am still discovering where I want to specialize. For now, I'm focused on developing my skills, creating useful projects, and learning from the developer community.
 
-## About Me
+- **Building:** NoteTakingApp and a CNN project focused on gravitational lenses
+- **Learning:** C# and new approaches to software development
+- **Exploring:** Web development, AI/ML, applications, games, and developer tools
+- **Interested in:** Open source, collaboration, and sharing knowledge
 
-I'm **Vihaan Kshirsagar**, a self-taught developer interested in exploring how technology can turn ideas into useful and interesting things.
-
-I enjoy experimenting across different areas of software development. I'm still discovering the fields I want to specialize in, and I see that as an opportunity to explore, build, and learn.
-
-- Currently building: NoteTakingApp and a CNN project focused on gravitational lenses
-- Currently learning: C# and continuously improving my development skills
-- Exploring: Web development, AI/ML, applications, games, and developer tools
-- Interested in: Open source, collaboration, and connecting with fellow developers
-- Philosophy: Progress comes from curiosity, consistency, and experimentation
-
-## Languages and Technologies
+### `02 / Tech stack`
 
 Languages I've worked with or am currently learning:
 
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs&theme=dark" alt="Python, JavaScript, TypeScript, Java, C, C++, and C sharp" />
 
 </div>
 
-## Projects in Progress
+### `03 / Selected projects`
 
-### NoteTakingApp
+**NoteTakingApp**
 
-An application project in progress. I'm using it to explore software development and build something practical.
+An application project in progress, focused on building practical software and developing my application-building skills.
 
-### CNN for Gravitational Lenses
+**CNN for Gravitational Lenses**
 
 A machine-learning project exploring convolutional neural networks in the context of gravitational lenses.
 
-More experiments and projects will be added as they develop.
+More projects will be added as they develop.
 
-## Currently Exploring
+### `04 / Currently exploring`
 
-- Becoming more comfortable with C#
-- Exploring web technologies and application development
-- Learning about machine learning and convolutional neural networks
-- Improving how I design, build, and document software
-- Finding opportunities to contribute to open source
+- C# and the .NET ecosystem
+- Web technologies and application development
+- Machine learning and convolutional neural networks
+- Better software design, documentation, and development workflows
+- Open-source collaboration and community contributions
 
-## Beyond the Code
+### `05 / Let's connect`
 
-I believe developers grow by sharing knowledge, learning from each other's projects, and collaborating on interesting ideas.
+I'm always interested in meeting developers, exchanging ideas, and learning about projects other people are building.
 
-If you're building something interesting, exploring a new technology, or contributing to open source, I'd be glad to connect.
+Have an interesting project or an idea worth exploring? Let's connect.
 
 <div align="center">
 
-[![Connect on LinkedIn](https://img.shields.io/badge/CONNECT_ON-LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0D0B14)](https://www.linkedin.com/in/vihaankshirsagar/)
-
-**Thanks for visiting my profile.**
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=17131F)](https://www.linkedin.com/in/vihaankshirsagar/)
 
 *Stay curious. Keep building.*
 
