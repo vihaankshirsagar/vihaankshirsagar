@@ -1,75 +1,87 @@
- <!-- README START -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF14&height=200&section=header&text=Vihaan%20Kshirsagar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20and%20learning%20in%20public&descAlignY=55&descSize=16" width="100%" alt="Vihaan Kshirsagar — Building and learning in public" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:39265C,100:8B5CF6&height=210&section=header&text=VIHAAN%20KSHIRSAGAR&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Curiosity%2C%20compiled.&descSize=18&descColor=C4B5FD&descAlignY=58" width="100%" alt="Vihaan Kshirsagar — Curiosity, compiled." />
 
-### Hey there! I'm Vihaan 👋
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-A78BFA?style=flat-square&labelColor=0D0B14" alt="Always learning" />
+  <img src="https://img.shields.io/badge/MINDSET-BUILD_AND_EXPLORE-A78BFA?style=flat-square&labelColor=0D0B14" alt="Build and explore" />
+</p>
 
-**Self-taught developer · Curious mind · Lifelong learner**
+### Self-taught developer | Curious by nature | Builder by choice
 
-*Exploring ideas, writing code, and turning curiosity into projects.*
+*Exploring ideas, building projects, and learning through experimentation.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vihaankshirsagar/)
+[LinkedIn](https://www.linkedin.com/in/vihaankshirsagar/) · [GitHub Repositories](https://github.com/vihaankshirsagar?tab=repositories)
 
 </div>
 
 ---
 
-## 💚 About Me
+```text
+> whoami
+Vihaan Kshirsagar
 
-Hey! I'm **Vihaan Kshirsagar**, a self-taught developer who enjoys exploring different areas of technology and learning by building things.
+> current_mission
+Explore. Build. Learn. Share.
 
-I'm interested in web development, AI and machine learning, applications, games, developer tools, and open source. I'm still exploring where I want to specialize, and I'm excited to keep experimenting along the way.
+> mindset
+Stay curious. Keep creating.
+```
 
-- 🔭 **Working on:** NoteTakingApp and a CNN project for gravitational lenses
-- 🌱 **Learning:** C# and continuously improving my development skills
-- 🧪 **Exploring:** Different technologies, ideas, and ways to solve problems
-- 🤝 **Interested in:** Open-source contributions and connecting with fellow developers
-- 📚 **My approach:** Learn, build, experiment, improve, repeat
+## About Me
 
-I believe there's always something new to learn, and some of the best learning happens when you build something yourself.
+I'm **Vihaan Kshirsagar**, a self-taught developer interested in exploring how technology can turn ideas into useful and interesting things.
 
-## 🛠️ Languages & Technologies
+I enjoy experimenting across different areas of software development. I'm still discovering the fields I want to specialize in, and I see that as an opportunity to explore, build, and learn.
 
-These are the programming languages I work with or am exploring.
+- Currently building: NoteTakingApp and a CNN project focused on gravitational lenses
+- Currently learning: C# and continuously improving my development skills
+- Exploring: Web development, AI/ML, applications, games, and developer tools
+- Interested in: Open source, collaboration, and connecting with fellow developers
+- Philosophy: Progress comes from curiosity, consistency, and experimentation
 
-<div align="center">
+## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs&theme=dark)](https://skillicons.dev)
-
-</div>
-
-## 🚀 Projects I'm Exploring
-
-### 📝 NoteTakingApp
-An application project I'm working on to explore software development and build something practical.
-
-### 🔭 CNN for Gravitational Lenses
-A machine-learning project exploring convolutional neural networks (CNNs) in the context of gravitational lenses.
-
-*More projects, experiments, and ideas will find their way here as I continue building.*
-
-## 🌱 Currently Learning
-
-- Getting more comfortable with C#
-- Exploring web development and software-building ideas
-- Learning more about AI, machine learning, and CNNs
-- Improving my development workflow through hands-on projects
-- Finding opportunities to learn from and contribute to open source
-
-## 🤝 Let's Connect
-
-I'm always happy to connect with fellow developers, exchange ideas, learn together, and explore interesting projects.
+Languages I've worked with or am currently learning:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vihaankshirsagar/)
-
-**Thanks for stopping by!** 🌱
-
-*Keep learning. Keep building. Keep growing.*
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<!-- README END -->
+## Projects in Progress
+
+### NoteTakingApp
+
+An application project in progress. I'm using it to explore software development and build something practical.
+
+### CNN for Gravitational Lenses
+
+A machine-learning project exploring convolutional neural networks in the context of gravitational lenses.
+
+More experiments and projects will be added as they develop.
+
+## Currently Exploring
+
+- Becoming more comfortable with C#
+- Exploring web technologies and application development
+- Learning about machine learning and convolutional neural networks
+- Improving how I design, build, and document software
+- Finding opportunities to contribute to open source
+
+## Beyond the Code
+
+I believe developers grow by sharing knowledge, learning from each other's projects, and collaborating on interesting ideas.
+
+If you're building something interesting, exploring a new technology, or contributing to open source, I'd be glad to connect.
+
+<div align="center">
+
+[![Connect on LinkedIn](https://img.shields.io/badge/CONNECT_ON-LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0D0B14)](https://www.linkedin.com/in/vihaankshirsagar/)
+
+**Thanks for visiting my profile.**
+
+*Stay curious. Keep building.*
+
+</div>
