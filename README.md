@@ -1,32 +1,33 @@
 <div align="center">
 
-# VIHAAN KSHIRSAGAR
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:171126,50:4C2889,100:9B7AE6&height=180&section=header&text=Vihaan%20Kshirsagar&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=CURIOUS%20BY%20NATURE.%20BUILDER%20BY%20CHOICE.&descSize=13&descColor=E9DDFE&descAlignY=68" width="100%" alt="Vihaan Kshirsagar — Curious by nature, builder by choice" />
 
-### `Curiosity, compiled.`
+<br/>
 
-Self-taught developer exploring software, AI/ML, and the web.
+`SELF-TAUGHT DEVELOPER` &nbsp; · &nbsp; `ALWAYS EXPLORING`
 
-[LinkedIn](https://www.linkedin.com/in/vihaankshirsagar/) · [Repositories](https://github.com/vihaankshirsagar?tab=repositories)
+### Curiosity, compiled.
 
-<img src="https://img.shields.io/badge/BUILD-EXPLORE-8B5CF6?style=flat-square&labelColor=17131F" alt="Build and explore" />
-<img src="https://img.shields.io/badge/STATUS-LEARNING-C4B5FD?style=flat-square&labelColor=17131F" alt="Always learning" />
+Exploring software, AI/ML, and the web — one project at a time.
+
+[LinkedIn](https://www.linkedin.com/in/vihaankshirsagar/) &nbsp; **|** &nbsp; [Repositories](https://github.com/vihaankshirsagar?tab=repositories)
 
 </div>
 
 ---
 
-### `01 / About`
+## <span style="color:#B69AF7">01.</span> About Me
 
-Hi, I'm **Vihaan**, a self-taught developer who enjoys exploring technology, experimenting with ideas, and learning by building.
+I'm **Vihaan Kshirsagar**, a self-taught developer who enjoys experimenting with technology, exploring new ideas, and learning by building.
 
-I'm interested in several areas of software development and am still discovering where I want to specialize. For now, I'm focused on developing my skills, creating useful projects, and learning from the developer community.
+I'm interested in several areas of software development and am still discovering where I want to specialize. For now, I'm focused on improving my skills, creating useful projects, and learning from the developer community.
 
 - **Building:** NoteTakingApp and a CNN project focused on gravitational lenses
 - **Learning:** C# and new approaches to software development
 - **Exploring:** Web development, AI/ML, applications, games, and developer tools
 - **Interested in:** Open source, collaboration, and sharing knowledge
 
-### `02 / Tech stack`
+## <span style="color:#B69AF7">02.</span> Languages & Technologies
 
 Languages I've worked with or am currently learning:
 
@@ -36,36 +37,40 @@ Languages I've worked with or am currently learning:
 
 </div>
 
-### `03 / Selected projects`
+## <span style="color:#B69AF7">03.</span> Selected Projects
 
-**NoteTakingApp**
+### NoteTakingApp
 
 An application project in progress, focused on building practical software and developing my application-building skills.
 
-**CNN for Gravitational Lenses**
+### CNN for Gravitational Lenses
 
 A machine-learning project exploring convolutional neural networks in the context of gravitational lenses.
 
-More projects will be added as they develop.
+*More projects will be added as they develop.*
 
-### `04 / Currently exploring`
+## <span style="color:#B69AF7">04.</span> Currently Exploring
 
 - C# and the .NET ecosystem
 - Web technologies and application development
 - Machine learning and convolutional neural networks
-- Better software design, documentation, and development workflows
+- Software design, documentation, and development workflows
 - Open-source collaboration and community contributions
 
-### `05 / Let's connect`
+## <span style="color:#B69AF7">05.</span> Let's Connect
 
-I'm always interested in meeting developers, exchanging ideas, and learning about projects other people are building.
+I enjoy meeting developers, exchanging ideas, and learning about the projects others are building.
 
-Have an interesting project or an idea worth exploring? Let's connect.
+If you're working on something interesting or exploring a new technology, feel free to connect.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=17131F)](https://www.linkedin.com/in/vihaankshirsagar/)
+<a href="https://www.linkedin.com/in/vihaankshirsagar/">
+  <img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-9B7AE6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=211735" alt="Connect on LinkedIn" />
+</a>
 
-*Stay curious. Keep building.*
+<br/><br/>
+
+<sub>Stay curious. Keep building.</sub>
 
 </div>
